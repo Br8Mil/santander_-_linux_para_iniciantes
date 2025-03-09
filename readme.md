@@ -1,9 +1,9 @@
-# Este projeto contém os desafios, atividades e demais conteúdos propostos para o **Boot Camp** “[https://web.dio.me/track/santander-linux-para-iniciantes?tab=about](Santander - Linux para Iniciantes)” com duração de 30 horas.
+# Este projeto contém os desafios, atividades e demais conteúdos propostos para o **Boot Camp** “[Santander - Linux para Iniciantes](https://web.dio.me/track/santander-linux-para-iniciantes)” com duração de 30 horas.
 
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="logotipo da plataforma dio.me" width="100"/>
 
 <div align="center">
-    <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" alt="logotipo do bootcamp" width="400"/>
+    <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" alt="logotipo do bootcamp" width="100"/>
 </div>
 
 ## **Texto de apresentação da home do BootCamp**
