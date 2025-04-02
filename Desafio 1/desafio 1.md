@@ -11,21 +11,22 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 **Pré-requisitos**
 
 Linux
+
 GitHub
 
 **Links Úteis**
 
-[Git do projeto do professor](https://github.com/denilsonbonatti/linux-projeto1-iac){:target="_blank"}
+[Git do projeto do professor](https://github.com/denilsonbonatti/linux-projeto1-iac)
 
 Separamos aqui alguns materiais complementares como artigos, apostilas, apresentações, entre outros. Esses materiais serão úteis para você se aprofundar ainda mais nos principais temas deste Módulo e estão listados a seguir.
 
 **Principais comandos do Linux**
 
-[Apostila](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf){:target="_blank"}
+[Apostila](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
 
 **Mais informações sobre usuários no Linux:**
 
-[Usuários Linux](https://www.infowester.com/usuarioslinux.php){:target="_blank"}
+[Usuários Linux](https://www.infowester.com/usuarioslinux.php)
 
 ## **Resolução do Desafio (explicações e prints):**
 
@@ -33,11 +34,7 @@ Separamos aqui alguns materiais complementares como artigos, apostilas, apresent
 
 ## **Ferramentas Usadas:**
 
-[GitHub](https://github.com/){:target="_blank"}
-[Virtual Box](){:target="_blank"}
-[Ubuntu Server](){:target="_blank"}
-[PuTTY](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
+[GitHub](https://github.com/)
+[Virtual Box]()
+[Ubuntu Server]()
+[PuTTY]()
