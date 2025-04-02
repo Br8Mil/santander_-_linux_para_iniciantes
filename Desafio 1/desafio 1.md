@@ -10,9 +10,9 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 **Pré-requisitos**
 
-Linux
+>Linux
 
-GitHub
+>GitHub
 
 **Links Úteis**
 
@@ -35,6 +35,9 @@ Separamos aqui alguns materiais complementares como artigos, apostilas, apresent
 ## **Ferramentas Usadas:**
 
 [GitHub](https://github.com/)
+
 [Virtual Box]()
+
 [Ubuntu Server]()
+
 [PuTTY]()
