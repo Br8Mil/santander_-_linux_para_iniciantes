@@ -4,40 +4,26 @@
 
 ## **Texto do Desafio:**
 
-Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. Sendo assim, toda nova máquina virtual que for iniciada já estará pronta para uso quando o script for executado.
+    A tecnologia de Containers promete mudar a maneira como as operações de TI são realizadas, abstraindo ambientes de desenvolvimento e otimizando o consumo de recursos. Nesse contexto, conheça o Docker, implemente uma estrutura de Microsserviços com as melhores práticas do mercado internacional e ganhe independência entre aplicações e infraestrutura em mais um conteúdo exclusivo por aqui.
 
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
+    Neste desafio, você deverá replicar (e porque não, melhorar) este projeto prático, criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub! Para isso, inspire-se na história de TOSHIRO SHIBAKITA e vamos evoluir com a ajuda da Nuvem ☁️😍☁️
+
+    Dica: você pode dar um "fork" no Repositório do GitHub (vulgo, "Guia Melzinho na Chupeta") para organizar suas alterações e evoluções, mantendo uma referência direta ao código original.
 
 **Pré-requisitos**
 
-Linux
-GitHub
+    Pré-requisitos: conhecimentos básicos em Linux, Docker e AWS.
 
-**Links Úteis**
+**Informações Úteis**
 
-[Git do projeto do professor](https://github.com/denilsonbonatti/linux-projeto1-iac){:target="_blank"}
+[Repositório no GitHub](https://github.com/denilsonbonatti/toshiro-shibakita)
 
-Separamos aqui alguns materiais complementares como artigos, apostilas, apresentações, entre outros. Esses materiais serão úteis para você se aprofundar ainda mais nos principais temas deste Módulo e estão listados a seguir.
+Slide na Pasta(material do desafio)
 
-**Principais comandos do Linux**
-
-[Apostila](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf){:target="_blank"}
-
-**Mais informações sobre usuários no Linux:**
-
-[Usuários Linux](https://www.infowester.com/usuarioslinux.php){:target="_blank"}
-
-## **Resolução do Desafio (explicações e prints):**
+## **Resolução do Desafio (Explicações e Prints):**
 
 
 
 ## **Ferramentas Usadas:**
 
-[GitHub](https://github.com/){:target="_blank"}
-[Virtual Box](){:target="_blank"}
-[Ubuntu Server](){:target="_blank"}
-[PuTTY](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
+[GitHub](https://github.com/)

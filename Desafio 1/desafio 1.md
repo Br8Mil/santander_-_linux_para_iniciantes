@@ -10,11 +10,9 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 **Pré-requisitos**
 
->Linux
+>Linux Server e GitHub
 
->GitHub
-
-**Links Úteis**
+**Informações Úteis**
 
 [Git do projeto do professor](https://github.com/denilsonbonatti/linux-projeto1-iac)
 
@@ -28,7 +26,9 @@ Separamos aqui alguns materiais complementares como artigos, apostilas, apresent
 
 [Usuários Linux](https://www.infowester.com/usuarioslinux.php)
 
-## **Resolução do Desafio (explicações e prints):**
+Slide na Pasta(material do desafio)
+
+## **Resolução do Desafio (Explicações e Prints):**
 
 
 

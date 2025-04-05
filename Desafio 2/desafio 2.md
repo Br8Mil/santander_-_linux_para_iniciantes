@@ -1,43 +1,25 @@
-﻿# **Módulo 2 - Introdução a Linux e Scripts/Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões**
+﻿# **Módulo 3 - Servidores Linux e Docker/Docker: Utilização Prática no Cenário de Micros serviços**
 
 ## > **Concluído em //2025**
 
 ## **Texto do Desafio:**
 
-Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. Sendo assim, toda nova máquina virtual que for iniciada já estará pronta para uso quando o script for executado.
+    Neste projeto iremos criar um script onde será provisionado um servidor web automaticamente. Um servidor web é um software e hardware que usa HTTP (Hypertext Transfer Protocol) e outros protocolos para responder a solicitações de clientes feitas pela World Wide Web. O principal trabalho de um servidor da web é exibir o conteúdo do site por meio do armazenamento, processamento e entrega de páginas da web aos usuários.
 
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
+    Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
 
 **Pré-requisitos**
 
-Linux
-GitHub
+    Linux Server e GitHub
 
-**Links Úteis**
+**Informações Úteis**
 
-[Git do projeto do professor](https://github.com/denilsonbonatti/linux-projeto1-iac){:target="_blank"}
+    Slide na Pasta(material do desafio)
 
-Separamos aqui alguns materiais complementares como artigos, apostilas, apresentações, entre outros. Esses materiais serão úteis para você se aprofundar ainda mais nos principais temas deste Módulo e estão listados a seguir.
-
-**Principais comandos do Linux**
-
-[Apostila](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf){:target="_blank"}
-
-**Mais informações sobre usuários no Linux:**
-
-[Usuários Linux](https://www.infowester.com/usuarioslinux.php){:target="_blank"}
-
-## **Resolução do Desafio (explicações e prints):**
+## **Resolução do Desafio (Explicações e Prints):**
 
 
 
 ## **Ferramentas Usadas:**
 
-[GitHub](https://github.com/){:target="_blank"}
-[Virtual Box](){:target="_blank"}
-[Ubuntu Server](){:target="_blank"}
-[PuTTY](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
-[](){:target="_blank"}
+[GitHub](https://github.com/)
