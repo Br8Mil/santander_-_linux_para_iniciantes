@@ -1,6 +1,6 @@
 ﻿# **Módulo 2 - Introdução a Linux e Scripts/Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões**
 
-## > **Concluído em //2025**
+## > **Concluído em 07/04/2025**
 
 ## **Texto do Desafio:**
 
