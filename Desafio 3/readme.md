@@ -1,4 +1,4 @@
-﻿# **Módulo 2 - Introdução a Linux e Scripts/Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões**
+﻿# **Módulo 3 - Introdução a Linux e Scripts/Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões**
 
 ## > **Concluído em 09/04/2025**
 
